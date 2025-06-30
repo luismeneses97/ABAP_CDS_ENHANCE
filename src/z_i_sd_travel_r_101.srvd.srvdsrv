@@ -1,4 +1,4 @@
 @EndUserText.label: 'Service definition for Travel data'
 define service Z_I_SD_TRAVEL_R_101 {
-  expose Z_I_TRAVEL_R_101;
+  expose Z_I_TRAVEL_R_101_V2;
 }
